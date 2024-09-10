@@ -1,0 +1,12 @@
+spellchecker
+gradio_client
+streamlit
+streamlit-chat
+transformers
+opencv-python
+numpy
+Pillow
+pytesseract
+pandas
+PyPDF2
+python-docx
